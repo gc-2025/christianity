@@ -1,34 +1,34 @@
 const Questions = [
     {
-        q: "Fill in the blank: Snow leopards live _____.",
-        a: [{text: "in the desert.", isCorrect: false},
-            {text: "in the jungle.", isCorrect: false},
-            {text: "in the mountains.", isCorrect: true},
-            {text: "in the city.", isCorrect: false},
+        q: "Fill in the blank: Why did Jesus Christ died for us _____.",
+        a: [{text: "For his Lifer.", isCorrect: false},
+            {text: "For his own good.", isCorrect: false},
+            {text: "For ours sins.", isCorrect: true},
+            {text: "Cause he want to.", isCorrect: false},
            ]
     },
     {
-        q: "Fill in the blank: Snow leopards have _____.",
-        a: [{text: "red, with whitish fur.", isCorrect: false},
-            {text: "whitish-gray fur.", isCorrect: true},
-            {text: "black stripes, with orange fur.", isCorrect: false},
-            {text: "white dots with black fur.", isCorrect: false},
+        q: "Why did the roman empire see Jesus Christ as a Threat?",
+        a: [{text: "He challenged their authority, social traditons and religious beliefs and The romans empire only believe into one god.", isCorrect: true},
+            {text: "Cause he was a big threat to the roman empire cause he was a horrible person.", isCorrect: false},
+            {text: "He was a spy for other empires.", isCorrect: false},
+            {text: "Cause he wanted all the power in the world.", isCorrect: false},
            ]
     },
     {
-        q: "Fill in the blank: Snow leopards use their tails for _____.",
-        a: [{text: "balance.", isCorrect: true},
-            {text: "killing their prey.", isCorrect: false},
-            {text: "grabbing objects.", isCorrect: false},
-            {text: "swinging.", isCorrect: false},
+        q: "Fill in the blank:  Jesus Christ came back from the dead after _____ when his death happened.",
+        a: [{text: "A month.", isCorrect: false},
+            {text: "A week.", isCorrect: false},
+            {text: "5 Days.", isCorrect: false},
+            {text: "3 Days.", isCorrect: true},
            ]
     },
     {
-        q: "Fill in the blank: Snow leopards eat _____.",
-        a: [{text: "frogs.", isCorrect: false},
-            {text: "fish.", isCorrect: false},
-            {text: "lions.", isCorrect: false},
-            {text: "deer.", isCorrect: true},
+        q: "How many people saw Jesus Christ come back from the dead?",
+        a: [{text: "Over 1,000.", isCorrect: false},
+            {text: "Over 500.", isCorrect: true},
+            {text: "Over 8,000.", isCorrect: false},
+            {text: "Over 2,000.", isCorrect: false},
            ]
     },
     
